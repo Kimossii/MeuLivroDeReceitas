@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Backend/">
+    <Project Path="src/Backend/MyRecepeBook.Application/MyRecepeBook.Application.csproj" Id="645a02a5-cd9b-4882-a18a-90b98eb7c243" />
+    <Project Path="src/Backend/MyRecepeBook.Domain/MyRecepeBook.Domain.csproj" Id="6b6a82eb-cfa4-45db-b9a8-c8d96f67d0c7" />
+    <Project Path="src/Backend/MyRecepeBook.Infrastructure/MyRecepeBook.Infrastructure.csproj" Id="c1b4f50b-4b75-467c-890f-cff37a888ae9" />
+    <Project Path="src/Backend/MyRecepeBook.Api/MyRecepeBook.Api.csproj" />
+  </Folder>
+  <Folder Name="/src/Shared/">
+    <Project Path="src/Shared/MyRecepeBook.Communication/MyRecepeBook.Communication.csproj" Id="325245f2-9615-4715-8160-ed05abad3159" />
+    <Project Path="src/Shared/MyRecepeBook.Exception/MyRecepeBook.Exception.csproj" Id="e6245166-97d5-4856-962a-ad98676cba93" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>
