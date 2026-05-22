@@ -12,10 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\..\Shared\MyRecepeBook.Communication\MyRecepeBook.Communication.csproj" />
     <ProjectReference Include="..\..\Shared\MyRecepeBook.Exception\MyRecepeBook.Exception.csproj" />
     <ProjectReference Include="..\MyRecepeBook.Application\MyRecepeBook.Application.csproj" />
